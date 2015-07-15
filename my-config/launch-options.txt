@@ -1,0 +1,1 @@
+-novid -threads 4 -tickrate 128 -noaafonts -freq 144 -nojoy -high +mat_vignette_enable 0
