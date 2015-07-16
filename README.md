@@ -1,4 +1,5 @@
-# Counter-Strike-Global-Offensive configuration
+## Counter-Strike:Global-Offensive
+###*Optimal Configuration*
 
 ##Recommended Launch Options
 
@@ -12,7 +13,7 @@
 
 >**-noaafonts** (improves fps slightly by avoiding the anti-aliasing of text)
 
->**-freq 144** (set this to your monitors maximum refresh rate)
+>**-freq 144** (set this to your monitors maximum refresh rate for smoother and more responsive experience)
 
 >**-nojoy** (avoid the loading of modules related to joystick controls, as they are not needed)
 
