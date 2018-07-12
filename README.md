@@ -8,7 +8,7 @@
 
 - `-threads 4` (runs cs:go on multiple cores - match number with physical cpu cores)
 
-- -tickrate 128` (sets the default tickrate of locally hosted servers)
+- `-tickrate 128` (sets the default tickrate of locally hosted servers)
 
 - `-noaafonts` (improves fps slightly by avoiding the anti-aliasing of text)
 
